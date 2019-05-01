@@ -1,1 +1,2 @@
-# c-c-
+# TicTacToe
+Implement TicTacToe game in C++. 
