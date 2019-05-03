@@ -12,8 +12,7 @@ int main()
     
     cout << "Please enter the first user's (the 'x' user) name: \n";
     getline(cin, gameT.user1);
-    
-    
+     
     cout << "Please enter the second user's (the 'o' user) name: \n";
     getline(cin, gameT.user2);
 
@@ -32,8 +31,8 @@ int main()
     	{
     		return 0;
     	}		
-	}
+    }
 
-	cout << "The game is tied!\n"; 
-	return 0;	   
+    cout << "The game is tied!\n"; 
+    return 0;	   
 }
